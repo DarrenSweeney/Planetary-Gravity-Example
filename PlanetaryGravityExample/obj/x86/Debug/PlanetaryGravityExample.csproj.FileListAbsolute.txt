@@ -1,0 +1,28 @@
+c:\users\darren sweeney\documents\visual studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\obj\x86\Debug\PlanetaryGravityExample.csprojResolveAssemblyReference.cache
+c:\users\darren sweeney\documents\visual studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\PlanetaryGravityExample.exe
+c:\users\darren sweeney\documents\visual studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\PlanetaryGravityExample.pdb
+c:\users\darren sweeney\documents\visual studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Lidgren.Network.dll
+c:\users\darren sweeney\documents\visual studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\MonoGame.Framework.Windows.dll
+c:\users\darren sweeney\documents\visual studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\OpenTK.dll
+c:\users\darren sweeney\documents\visual studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Tao.Sdl.dll
+c:\users\darren sweeney\documents\visual studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Lidgren.Network.Windows.dll
+c:\users\darren sweeney\documents\visual studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Lidgren.Network.xml
+c:\users\darren sweeney\documents\visual studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Lidgren.Network.Windows.xml
+c:\users\darren sweeney\documents\visual studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\obj\x86\Debug\PlanetaryGravityExample.exe
+c:\users\darren sweeney\documents\visual studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\obj\x86\Debug\PlanetaryGravityExample.pdb
+C:\Users\Darren Sweeney\Documents\Visual Studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Content\Planet.xnb
+C:\Users\Darren Sweeney\Documents\Visual Studio 2013\Projects\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Content\Player.xnb
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\obj\x86\Debug\PlanetaryGravityExample.exe
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\obj\x86\Debug\PlanetaryGravityExample.pdb
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Content\Planet.xnb
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Content\Player.xnb
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\PlanetaryGravityExample.exe
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\PlanetaryGravityExample.pdb
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Lidgren.Network.dll
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\MonoGame.Framework.Windows.dll
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\OpenTK.dll
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Tao.Sdl.dll
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Lidgren.Network.Windows.dll
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Lidgren.Network.xml
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\bin\Debug\Lidgren.Network.Windows.xml
+C:\Users\Darren Sweeney\Desktop\PlanetaryGravityExample\PlanetaryGravityExample\obj\x86\Debug\PlanetaryGravityExample.csprojResolveAssemblyReference.cache
